@@ -1,0 +1,3 @@
+/Users/shannonharrison/CLionProjects/hw5part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shannonharrison/CLionProjects/hw5part2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shannonharrison/CLionProjects/hw5part2/cmake-build-debug/CMakeFiles/hw5part2.dir
