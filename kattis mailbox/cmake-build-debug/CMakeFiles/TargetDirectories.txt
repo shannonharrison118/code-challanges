@@ -1,3 +1,0 @@
-/Users/shannonharrison/CLionProjects/hw6part3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/shannonharrison/CLionProjects/hw6part3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/shannonharrison/CLionProjects/hw6part3/cmake-build-debug/CMakeFiles/hw6part3.dir
