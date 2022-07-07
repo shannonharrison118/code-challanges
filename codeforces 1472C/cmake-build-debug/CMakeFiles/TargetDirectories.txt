@@ -1,0 +1,3 @@
+/Users/shannonharrison/CLionProjects/cp5part1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shannonharrison/CLionProjects/cp5part1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shannonharrison/CLionProjects/cp5part1/cmake-build-debug/CMakeFiles/cp5part1.dir
